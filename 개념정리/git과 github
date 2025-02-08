@@ -29,6 +29,11 @@ $ git push origin main
 이 경우 그 팀원이 만든 변경사항을 내 컴퓨터에도 반영하기 위해 pull을 먼저 해줘야 한다.
 (까먹고 push 해도 pull 하라고 할거임)
 
+## git bash 단축키
+복사하기 - ctrl + insert
+붙여넣기 - shift + insert
+
+
 ---
 
 << 명령어 총 정리 >>
